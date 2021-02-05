@@ -9,7 +9,7 @@
   "author": "Social Tables",
   "license": "MIT",
   "dependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.3.0",
     "mocha": "^7.0.1",
     "selenium-webdriver": "^2.53.3"
   }
