@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "chai": "^3.5.0",
-    "mocha": "^7.0.1",
+    "mocha": "^9.0.0",
     "selenium-webdriver": "^2.53.3"
   }
 }
